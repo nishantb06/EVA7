@@ -52,4 +52,7 @@ Method -
 
 As seen in the above image the second bottom appears at around 0.1 therefore the max learning rate is 0.1 of One cycle learning rate policy.
 
+### Results of training
+Max accuracy acheived = 90.08% in 24 epochs
+
 
