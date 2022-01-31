@@ -41,3 +41,4 @@ This [Github Issue](https://github.com/facebookresearch/detr/issues/178) also st
 ## Explain Encoder Decoder Architecture
 
 ## Results
+![Imgur](https://imgur.com/40a4Bdn.png)
